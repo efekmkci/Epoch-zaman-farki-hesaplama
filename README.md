@@ -1,3 +1,7 @@
+# Epoch zamanı nedir
+
+Epoch zamanı, bilgisayar sistemlerinde zamanın ölçülmeye başlandığı referans noktasıdır. Genellikle 1 Ocak 1970 00:00:00 UTC olarak kabul edilir. Bilgisayarlar ve programlar, bu tarihten itibaren geçen saniyeleri sayarak zamanı takip eder. Özellikle Unix ve Linux sistemlerinde yaygın olarak kullanılır.
+
 # Epoch Zaman Farkı Hesaplama
 
 Bu proje, kullanıcının girdiği iki farklı tarih ve saat için **epoch zamanını hesaplayan** ve aralarındaki farkı saniye ve saat cinsinden ekrana yazdıran bir **C programıdır**.
